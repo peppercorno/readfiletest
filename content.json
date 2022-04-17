@@ -1,0 +1,12 @@
+{
+	"Dishes": [
+		{
+			"Name": "Fried Rice",
+			"Price": "$10"
+		},
+		{
+			"Name": "Noodles",
+			"Price": "$12"
+		}
+	]
+}
